@@ -8,6 +8,7 @@ You can save/load coefficients of variables in a system of linear equations. You
 > [!WARNING]\
 > The source code is encrypted - don't be alarmed, this is not a mistake, I did it on purpose. I don't want to publish the source code itself, but from these files you can understand the size of the project and its complexity.
 
+---
 
 Смысл программы: программа решает систему линейных уравнений методом Гаусса, а также находит определитель матрицы.
 
